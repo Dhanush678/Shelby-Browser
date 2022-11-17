@@ -1,5 +1,6 @@
 package easy.tuto.etbrowser;
 
+import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.app.Activity;
@@ -13,6 +14,7 @@ import android.view.inputmethod.EditorInfo;
 import android.view.inputmethod.InputMethodManager;
 import android.webkit.WebChromeClient;
 import android.webkit.WebResourceRequest;
+import android.webkit.WebResourceResponse;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
@@ -20,6 +22,9 @@ import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.ProgressBar;
 import android.widget.TextView;
+
+import java.util.HashMap;
+import java.util.Map;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -33,6 +38,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        AdBlocker.init(this);
 
         urlInput = findViewById(R.id.url_input);
         clearUrl = findViewById(R.id.clear_icon);
@@ -157,6 +163,29 @@ public class MainActivity extends AppCompatActivity {
         public void onPageFinished(WebView view, String url) {
             super.onPageFinished(view, url);
             progressBar.setVisibility(View.INVISIBLE);
+        }
+    }
+
+    private class MyBrowser extends WebViewClient {
+        @Override
+        public boolean shouldOverrideUrlLoading(WebView view, String url) {
+            view.loadUrl(url);
+            return true;
+        }
+
+        private Map<String, Boolean> loadedUrls = new HashMap<>();
+        @Nullable
+        @Override
+        public WebResourceResponse shouldInterceptRequest(WebView view, String url) {
+            boolean ad;
+            if (!loadedUrls.containsKey(url)) {
+                ad = AdBlocker.isAd(url);
+                loadedUrls.put(url, ad);
+            } else {
+                ad = loadedUrls.get(url);
+            }
+            return ad ? AdBlocker.createEmptyResource() :
+                    super.shouldInterceptRequest(view, url);
         }
     }
 
