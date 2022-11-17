@@ -26,14 +26,12 @@ import android.widget.TextView;
 import java.util.HashMap;
 import java.util.Map;
 
-public class MainActivity extends AppCompatActivity {
-
+public class bing extends AppCompatActivity {
     EditText urlInput;
     ImageView clearUrl;
     WebView webView;
     ProgressBar progressBar;
     ImageView webBack,webForward,webRefresh,webShare;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -63,7 +61,7 @@ public class MainActivity extends AppCompatActivity {
         webSettings.setBuiltInZoomControls(true);
         webSettings.setDisplayZoomControls(false);
 
-        webView.setWebViewClient(new MyWebViewClient());
+        webView.setWebViewClient(new bing.MyWebViewClient());
         webView.setWebChromeClient(new WebChromeClient(){
             @Override
             public void onProgressChanged(WebView view, int newProgress) {
@@ -72,7 +70,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        loadMyUrl("google.com");
+        loadMyUrl("bing.com");
 
         urlInput.setOnEditorActionListener(new TextView.OnEditorActionListener() {
             @Override
@@ -139,7 +137,7 @@ public class MainActivity extends AppCompatActivity {
         if(matchUrl){
             webView.loadUrl(url);
         }else{
-            webView.loadUrl("google.com/search?q="+url);
+            webView.loadUrl("bing.com/search?q="+url);
         }
     }
 
@@ -154,7 +152,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    class MyWebViewClient extends WebViewClient{
+    class MyWebViewClient extends WebViewClient {
         @Override
         public boolean shouldOverrideUrlLoading(WebView view, WebResourceRequest request) {
             return false;
@@ -195,8 +193,6 @@ public class MainActivity extends AppCompatActivity {
             return ad ? AdBlocker.createEmptyResource() :
                     super.shouldInterceptRequest(view, url);
         }
-
     }
-
 
 }
