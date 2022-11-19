@@ -1,0 +1,378 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_javalogo.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\javalogo.png"
+    },
+    {
+        "merged": "com.example.coyotebrowser.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.coyotebrowser.app-debug-30:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.coyotebrowser.app-merged_res-29:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.coyotebrowser.app-debug-30:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.coyotebrowser.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.coyotebrowser.app-debug-30:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_movies.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\movies.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_rounded_corner.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\rounded_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_face.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\face.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_asdsdas.jpg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\asdsdas.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-pngs-24:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_stack.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\stack.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_gdf.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\gdf.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_ic_baseline_share_24.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\ic_baseline_share_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_flip.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\flip.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_nptl.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\nptl.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.coyotebrowser.app-merged_res-29:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.coyotebrowser.app-debug-30:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_bros.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\bros.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_git.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\git.png"
+    },
+    {
+        "merged": "com.example.coyotebrowser.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.coyotebrowser.app-debug-30:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_cc.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\cc.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_amazon.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\amazon.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_c.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\c.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_quora.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\quora.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\layout_activity_mainpage.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\layout\\activity_mainpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.coyotebrowser.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.coyotebrowser.app-debug-30:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_gfrh.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\gfrh.png"
+    },
+    {
+        "merged": "com.example.coyotebrowser.app-merged_res-29:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.coyotebrowser.app-debug-30:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_bach.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\bach.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_libgen.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\libgen.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_reddit.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\reddit.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_duck.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\duck.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_ic_baseline_refresh_24.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\ic_baseline_refresh_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_ic_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_aoi.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\aoi.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_whatsapp.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\whatsapp.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_ic_baseline_link_24.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\ic_baseline_link_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_zomato.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\zomato.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\font_asar.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\font\\asar.xml"
+    },
+    {
+        "merged": "com.example.coyotebrowser.app-merged_res-29:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.coyotebrowser.app-debug-30:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_ic_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_ask.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\ask.png"
+    },
+    {
+        "merged": "com.example.coyotebrowser.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.coyotebrowser.app-debug-30:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_leet.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\leet.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_d.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\d.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.coyotebrowser.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.coyotebrowser.app-debug-30:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_ic_baseline_arrow_forward_24.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\ic_baseline_arrow_forward_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\logo.png"
+    },
+    {
+        "merged": "com.example.coyotebrowser.app-merged_res-29:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.coyotebrowser.app-debug-30:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_tweet.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\tweet.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_geek.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\geek.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_ic_baseline_cancel_24.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\ic_baseline_cancel_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_asdad.jpg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\asdad.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_insta.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\insta.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_round.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\round.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_swiggy.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\swiggy.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_rank.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\rank.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_hd.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\hd.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_adsa.jpg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\adsa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_dsff.jpg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\dsff.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_python.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\python.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_net.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\net.png"
+    },
+    {
+        "merged": "com.example.coyotebrowser.app-merged_res-29:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.coyotebrowser.app-debug-30:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.coyotebrowser.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.coyotebrowser.app-debug-30:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_hack.jpg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\hack.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_prime.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\prime.png"
+    },
+    {
+        "merged": "com.example.coyotebrowser.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.coyotebrowser.app-debug-30:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.coyotebrowser.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.coyotebrowser.app-debug-30:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_bing.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\bing.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_google.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\layout_activity_ad_blocker.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\layout\\activity_ad_blocker.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_yaho.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\yaho.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_javasda.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\javasda.png"
+    },
+    {
+        "merged": "com.example.coyotebrowser.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.coyotebrowser.app-debug-30:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.coyotebrowser.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.coyotebrowser.app-debug-30:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_kali.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\kali.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_medium.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\medium.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_java.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\java.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-merged_res-29:\\drawable_z.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.coyotebrowser.app-main-31:\\drawable\\z.png"
+    }
+]
