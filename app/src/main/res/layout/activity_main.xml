@@ -52,7 +52,7 @@
     
     <View
         android:layout_width="match_parent"
-        android:layout_height="1dp"
+        android:layout_height="5dp"
         android:background="#E1E1E1"
         android:layout_below="@id/input_fields"
         android:id="@+id/divider_1" />
@@ -85,7 +85,6 @@
         android:layout_alignParentBottom="true"
         android:id="@+id/bottom_layout"
         android:orientation="horizontal"
-        android:background="#F3F3F3"
         android:gravity="center">
 
         <ImageView

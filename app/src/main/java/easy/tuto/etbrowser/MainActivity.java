@@ -22,6 +22,7 @@ import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.ProgressBar;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -71,8 +72,9 @@ public class MainActivity extends AppCompatActivity {
                 progressBar.setProgress(newProgress);
             }
         });
+        String url1 = getIntent().getStringExtra("url");
 
-        loadMyUrl("google.com");
+        loadMyUrl(url1);
 
         urlInput.setOnEditorActionListener(new TextView.OnEditorActionListener() {
             @Override
@@ -136,10 +138,12 @@ public class MainActivity extends AppCompatActivity {
 
     void loadMyUrl(String url){
         boolean matchUrl = Patterns.WEB_URL.matcher(url).matches();
+        String url2 = getIntent().getStringExtra("url1");
+        String url3 = getIntent().getStringExtra("url2");
         if(matchUrl){
             webView.loadUrl(url);
         }else{
-            webView.loadUrl("google.com/search?q="+url);
+            webView.loadUrl(url2+url+url3);
         }
     }
 
@@ -148,11 +152,17 @@ public class MainActivity extends AppCompatActivity {
 
         if(webView.canGoBack()){
             webView.goBack();
-        }else{
+        }
+        else if(true){
+            Intent intent = new Intent(getApplicationContext(), mainpage.class);
+            startActivity(intent);
+        }
+        else{
             super.onBackPressed();
         }
 
     }
+
 
     class MyWebViewClient extends WebViewClient{
         @Override
@@ -197,6 +207,8 @@ public class MainActivity extends AppCompatActivity {
         }
 
     }
+
+
 
 
 }
